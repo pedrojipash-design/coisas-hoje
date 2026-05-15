@@ -1,3 +1,4 @@
 sala 
 quarto 
-banheiro
+cozinha 
+rede 
